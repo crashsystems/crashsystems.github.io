@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crashsystems.net</title>
+    <link>https://crashsystems.net/</link>
+    <description>Recent content on crashsystems.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 21 Apr 2019 14:53:29 -0700</lastBuildDate>
+    
+	<atom:link href="https://crashsystems.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Problem With Awareness</title>
+      <link>https://crashsystems.net/writing/the-problem-with-awareness/</link>
+      <pubDate>Sun, 21 Apr 2019 14:53:29 -0700</pubDate>
+      
+      <guid>https://crashsystems.net/writing/the-problem-with-awareness/</guid>
+      <description>What do you think of when you hear of campaigns such as Breast Cancer Awareness Month, Glaucoma Awareness Month, or National Stroke Awareness Month? Obviously, these are tragic things that need to be prevented. Now what about Autism Awareness Month? In our culture, we have Black History Month and LGBT Pride Month to celebrate different cultures, but yet Autism is treated as something which needs to be cured. Autistics tend to view autism as an integral part of who we are.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://crashsystems.net/about/</link>
+      <pubDate>Sun, 21 Apr 2019 13:42:50 -0700</pubDate>
+      
+      <guid>https://crashsystems.net/about/</guid>
+      <description>I’m Douglass, an autistic photographer located somewhere near San Francisco. I photograph landscape, seascapes, and the night sky. All my photography can be viewed on Flickr. By day I’m a software engineer, focusing on infrastructure automation and security.
+In my infrequent writing, you can expect to find subjects related to autism, photography, and maybe even some tech stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
