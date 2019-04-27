@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 21 Apr 2019 14:53:29 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 15:41:53 -0700</lastBuildDate>
     
 	<atom:link href="https://crashsystems.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Photography</title>
+      <link>https://crashsystems.net/photography/</link>
+      <pubDate>Sat, 27 Apr 2019 15:41:53 -0700</pubDate>
+      
+      <guid>https://crashsystems.net/photography/</guid>
+      <description>This is a sample of some of the best photos I&amp;rsquo;ve taken over the past few years. My full collection of work can be viewed on Flickr.</description>
+    </item>
     
     <item>
       <title>The Problem With Awareness</title>
